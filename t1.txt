@@ -1,1 +1,2 @@
 estructura del sistema boutique
+footer boutique
