@@ -1,2 +1,3 @@
 estructura del sistema boutique
 footer boutique
+estilo css
